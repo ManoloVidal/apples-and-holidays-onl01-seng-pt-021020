@@ -61,7 +61,7 @@
   # include the string "BBQ"
 
 #end
-def second_supply_for_fourth_of_july(holiday_hash)
+
   holiday_supplies = {
   :winter => {
     :christmas => ["Lights", "Wreath"],
